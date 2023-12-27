@@ -1,18 +1,22 @@
 {
   "name": "@mohamedaflah/randome-image-picker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple package for picking random images.",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/aflhaflu/randome-image-picker"
   },
-  
   "homepage": "https://github.com/aflhaflu",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["random", "image", "picker", "generator"],
+  "keywords": [
+    "random",
+    "image",
+    "picker",
+    "generator"
+  ],
   "author": "mohamedaflah",
   "license": "ISC",
   "dependencies": {
