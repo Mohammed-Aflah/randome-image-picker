@@ -1,5 +1,5 @@
 {
-  "name": "randome-image-picker",
+  "name": "image-picker",
   "version": "1.0.1",
   "description": "A simple package for picking random images.",
   "main": "index.js",
